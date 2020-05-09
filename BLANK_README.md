@@ -16,8 +16,7 @@
   <h3 align="center">Twitcoin</h3>
 
   <p align="center">
-  Twicoinin avulla voit hakea suoraan tietoa kryptovaluutoista ja twiiteistä!
-
+    Twicoinin avulla voit hakea suoraan tietoa kryptovaluutoista ja twiiteistä!
     <br />
     <a href="https://github.com/jespetius/twitcoin"><strong>GitHub »</strong></a>
     <br />
@@ -26,7 +25,7 @@
     ·
     <a href="https://github.com/jespetius/twitcoin/issues">Report Bug</a>
     ·
-    <a href=https://github.com/jespetius/twitcoin/issues">Request Feature</a>
+    <a href="https://github.com/jespetius/twitcoin/issues">Request Feature</a>
   </p>
 </p>
 
