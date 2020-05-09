@@ -110,8 +110,11 @@ Voit myös itse vaikuttaa projektiimme! Mikäli haluat kontriboitua omalla tekem
 ## Ota yhteyttä
 
 Ossi Mikkonen - ossi.mikkonen@myy.haaga-helia.fi
+
 Jesperi Kuula - jesperi.kuula@myy.haaga-helia.fi
+
 Mikko Miettinen - mikko.miettinen@myy.haaga-helia.fi
+
 Joonas Lagzouli - joonas.lagzouli@myy.haaga-helia.fi
 
 
