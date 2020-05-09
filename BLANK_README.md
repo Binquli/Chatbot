@@ -60,55 +60,62 @@
 <!-- Aloitusprosessi, miten ohjelmaa voi itse käyttää -->
 ## Aloitus
 
-To get a local copy up and running follow these simple steps.
+Ohjelmamme on vapaassa käytössä!
+
+Mikäli haluat itse käyttää ohjelmaamme, voit seuraavien ohjeiden avulla tehdä sen.
 
 
 <!-- Mitä kaikkea ohjelman käyttäminen vaatii -->
 ### Edellytykset
 
-This is an example of how to list things you need to use the software and how to install them.
+Tarvit seuraavia asioita, jotta ohjelman käyttö olisi mahdollista:
 * npm
 ```sh
 npm install npm@latest -g
 ```
+
 <!-- Asennusohjeet -->
 ### Asentaminen
  
-1. Clone the repo
+
+1. Tee [API-hakemus](https://developer.twitter.com/en/apply-for-access)
+2. Kloonaa repositorio
 ```sh
-git clone https://github.com/github_username/repo.git
+git clone https://github.com/jespetius/twitcoin.git
 ```
-2. Install NPM packages
+3. Asenna NPM paketit
 ```sh
 npm install
 ```
-
+4. Syötä saamasi API ohjelmaamme
 <!-- Käyttöohjeet -->
 ## Käyttäminen
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+-- Keskeneräinen --
 
 
 
 ## Kontribuutio
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Voit myös itse vaikuttaa projektiimme! Mikäli haluat kontriboitua omalla tekemiselläsi ja osaamisellasi projektimme kehittämiseen, seuraa näitä ohjeita:
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Forkkaa projektimme painamalla GitHub projektista löytyvää "Fork" -nappia sivuston oikeassa yläkulmassa.
+2. Tee oma branch projektille (`git checkout -b branchin nimi`)
+3. Committaa muutokset (`git commit -m 'kuvaus'`)
+4. Pushaa tekemääsi branchiin (`git push origin branchin nimi`)
+5. Tee pull request
 
 
 
 ## Ota yhteyttä
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Ossi Mikkonen - ossi.mikkonen@myy.haaga-helia.fi
+Jesperi Kuula - jesperi.kuula@myy.haaga-helia.fi
+Mikko Miettinen - mikko.miettinen@myy.haaga-helia.fi
+Joonas Lagzouli - joonas.lagzouli@myy.haaga-helia.fi
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+
+Projektin linkki: [Twitcoin](https://github.com/jespetius/twitcoin)
 
 
 
