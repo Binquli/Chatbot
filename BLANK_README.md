@@ -9,73 +9,71 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
+  <a href="https://github.com/jespetius/twitcoin">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Twitcoin</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+  Twicoinin avulla voit hakea suoraan tietoa kryptovaluutoista ja twiiteistä!
+
     <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jespetius/twitcoin"><strong>GitHub »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://github.com/jespetius/twitcoin">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
+    <a href="https://github.com/jespetius/twitcoin/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    <a href=https://github.com/jespetius/twitcoin/issues">Request Feature</a>
   </p>
 </p>
 
 
-## Table of Contents
+## Sisällysluettelo
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Tietoa projektista](#about-the-project)
+  * [Viitekehykset](#built-with)
+* [Aloitus](#getting-started)
+  * [Edellytykset](#prerequisites)
+  * [Asentaminen](#installation)
+* [Käyttäminen](#usage)
+* [Kontribuutio](#contributing)
+* [Ota yhteyttä](#contact)
 
 
-
-## About The Project
+<!-- Vaihdetaan kuva frontin näkymäksi, kun se on valmis -->
+## Tietoa projektista
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
 
 
-### Built With
+<!-- Viitekehykset, jota olemme käyttäneet projektissamme -->
+### Viitekehykset
 
 * []()
 * []()
 * []()
 
 
-
-## Getting Started
+<!-- Aloitusprosessi, miten ohjelmaa voi itse käyttää -->
+## Aloitus
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+
+<!-- Mitä kaikkea ohjelman käyttäminen vaatii -->
+### Edellytykset
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
 ```sh
 npm install npm@latest -g
 ```
-
-### Installation
+<!-- Asennusohjeet -->
+### Asentaminen
  
 1. Clone the repo
 ```sh
@@ -86,20 +84,16 @@ git clone https://github.com/github_username/repo.git
 npm install
 ```
 
-
-## Usage
+<!-- Käyttöohjeet -->
+## Käyttäminen
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
-## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
-
-
-## Contributing
+## Kontribuutio
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -110,23 +104,13 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-## Contact
+## Ota yhteyttä
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
 Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
 
-
-## Acknowledgements
-
-* []()
-* []()
-* []()
 
 
 
