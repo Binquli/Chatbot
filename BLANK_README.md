@@ -21,25 +21,25 @@
     <a href="https://github.com/jespetius/twitcoin"><strong>GitHub »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jespetius/twitcoin">View Demo</a>
+    <a href="https://github.com/jespetius/twitcoin">Katso demo</a>
     ·
-    <a href="https://github.com/jespetius/twitcoin/issues">Report Bug</a>
+    <a href="https://github.com/jespetius/twitcoin/issues">Ilmoita bugista</a>
     ·
-    <a href="https://github.com/jespetius/twitcoin/issues">Request Feature</a>
+    <a href="https://github.com/jespetius/twitcoin/issues">Muut ongelmat</a>
   </p>
 </p>
 
 
 ## Sisällysluettelo
 
-* [Tietoa projektista](#about-the-project)
-  * [Viitekehykset](#built-with)
-* [Aloitus](#getting-started)
-  * [Edellytykset](#prerequisites)
-  * [Asentaminen](#installation)
-* [Käyttäminen](#usage)
-* [Kontribuutio](#contributing)
-* [Ota yhteyttä](#contact)
+* [Tietoa projektista](#tietoa-projektista)
+  * [Viitekehykset](#viitekehykset)
+* [Aloitus](#aloitus)
+  * [Edellytykset](#edellytykset)
+  * [Asentaminen](#asentaminen)
+* [Käyttäminen](#käyttäminen)
+* [Kontribuutio](#kontribuutio)
+* [Ota yhteyttä](#ota-yhteyttä)
 
 
 <!-- Vaihdetaan kuva frontin näkymäksi, kun se on valmis -->
