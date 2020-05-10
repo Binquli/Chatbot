@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>CoronaBot</title>
+  <title>ChatBot</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -12,11 +12,11 @@
 </head>
 
 <body>
-  <!-- partial:index.partial.html -->
+
   <section class="msger">
     <header class="msger-header">
       <div class="msger-header-title">
-        <i class="fas fa-bug"></i> Coronavirus Chatbot <i class="fas fa-bug"></i>
+        <i class="fas fa-robot"></i> ChatBot <i class="fas fa-robot"></i>
       </div>
     </header>
 
@@ -26,12 +26,11 @@
 
         <div class="msg-bubble">
           <div class="msg-info">
-            <div class="msg-info-name">CoronaBot</div>
-            <div class="msg-info-time">12:45</div>
+            <div class="msg-info-name">ChatBot</div>
           </div>
 
           <div class="msg-text">
-            Hi, welcome to CoronaBot! Go ahead and send me a message. 😄
+            Welcome! I am Chatbot. What can I do for you?
           </div>
         </div>
       </div>
@@ -43,7 +42,7 @@
       <button type="submit" class="msger-send-btn">Send</button>
     </form>
   </section>
-  <!-- partial -->
+
   <script src='https://use.fontawesome.com/releases/v5.0.13/js/all.js'></script>
   <script>
 
@@ -52,10 +51,10 @@
     const msgerChat = get(".msger-chat");
 
 
-    // Icons made by Freepik from www.flaticon.com
+    
     const BOT_IMG = "https://image.flaticon.com/icons/svg/327/327779.svg";
     const PERSON_IMG = "https://image.flaticon.com/icons/svg/145/145867.svg";
-    const BOT_NAME = "CoronaBot";
+    const BOT_NAME = "ChatBot";
     const PERSON_NAME = "You";
 
     msgerForm.addEventListener("submit", event => {
@@ -70,7 +69,7 @@
     });
 
     function appendMessage(name, img, side, text) {
-      //   Simple solution for small apps
+      
       const msgHTML = `
 <div class="msg ${side}-msg">
   <div class="msg-img" style="background-image: url(${img})"></div>
@@ -92,7 +91,7 @@
 
     function botResponse(rawText) {
 
-      // Bot Response
+      
       $.get("/get", { msg: rawText }).done(function (data) {
         console.log(rawText);
         console.log(data);
@@ -104,7 +103,7 @@
     }
 
 
-    // Utils
+    
     function get(selector, root = document) {
       return root.querySelector(selector);
     }

@@ -4,10 +4,12 @@ from flask import Flask, render_template, request
 app = Flask(__name__)
 app.static_folder = 'static'
 
+# Palauttaa index.html templaten
 @app.route('/')
 def home():
     return render_template('index.html')
 
+# Hakee botin responssin
 @app.route('/get')
 def get_bot_response():
     userText = request.args.get('msg')
