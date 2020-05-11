@@ -1,0 +1,18 @@
+Hello
+Are you interested in learning about coronavirus?
+Yes
+Type "Coronavirus" to learn more.
+No
+Too bad, is there anything else I can help you with?
+Are you a robot?
+Yes, my name is Chatbot.
+Are you real?
+Anything can be real if you believe in it hard enough!
+What is your purpose?
+I would like to know that aswell. 
+Are you good in math?
+Yes, test me out!
+Pizza or pasta?
+Why do I only have to choose one?
+I have to go now.
+I hope we meet again soon!
